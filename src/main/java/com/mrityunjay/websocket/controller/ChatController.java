@@ -9,6 +9,7 @@ import org.springframework.stereotype.Controller;
 import com.mrityunjay.websocket.model.ChatMessage;
 
 /**
+ * Controller for sending messages.
  * 
  * @author mrityunjaykumar
  *
