@@ -8,6 +8,11 @@ import org.springframework.stereotype.Controller;
 
 import com.mrityunjay.websocket.model.ChatMessage;
 
+/**
+ * 
+ * @author mrityunjaykumar
+ *
+ */
 @Controller
 public class ChatController {
 
